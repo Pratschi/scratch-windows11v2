@@ -1,0 +1,102 @@
+{
+    "turbo": true,
+    "interpolation": true,
+    "framerate": 60,
+    "highQualityPen": true,
+    "maxClones": 9999999999,
+    "fencing": false,
+    "miscLimits": false,
+    "stageWidth": 480,
+    "stageHeight": 360,
+    "resizeMode": "dynamic-resize",
+    "autoplay": true,
+    "username": "win11-user",
+    "closeWhenStopped": false,
+    "projectId": "p4-@Windows 11 v2.1.0.sb3",
+    "custom": {
+        "css": "",
+        "js": ""
+    },
+    "appearance": {
+        "background": "#000000",
+        "foreground": "#ffffff",
+        "accent": "#ff4c4c"
+    },
+    "loadingScreen": {
+        "progressBar": true,
+        "text": "Loading Windows 11 v2.1.0...",
+        "imageMode": "normal",
+        "image": {
+            "__isBlob": true,
+            "type": "image/svg+xml",
+            "name": "LoadingScreen.svg",
+            "data": "PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSIzNTkuMjExNDMiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwLDAsMzU5LjIxMTQzLDM2MCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IHgxPSIxOTQiIHkxPSIxNzkuOTc0MyIgeDI9IjI4NiIgeTI9IjE3OS45NzQzIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgaWQ9ImNvbG9yLTEiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzY2ZDZmZiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzAwODhmZiIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IHgxPSIxOTQiIHkxPSIxNzkuOTk5OTQiIHgyPSIyODYiIHkyPSIxNzkuOTk5OTQiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBpZD0iY29sb3ItMiI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjNjZkNmZmIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDA4OGZmIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgeDE9IjE5NCIgeTE9IjE3OS45OTk5NCIgeDI9IjI4NiIgeTI9IjE3OS45OTk5NCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIGlkPSJjb2xvci0zIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM2NmQ2ZmYiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwMDg4ZmYiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCB4MT0iMTk0IiB5MT0iMTc5Ljk5OTk0IiB4Mj0iMjg2IiB5Mj0iMTc5Ljk5OTk0IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgaWQ9ImNvbG9yLTQiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzY2ZDZmZiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzAwODhmZiIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02MC4zOTQyOCwwKSI+PGcgZGF0YS1wYXBlci1kYXRhPSJ7JnF1b3Q7aXNQYWludGluZ0xheWVyJnF1b3Q7OnRydWV9IiBmaWxsLXJ1bGU9Im5vbnplcm8iIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIwIiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtZGFzaGFycmF5PSIiIHN0cm9rZS1kYXNob2Zmc2V0PSIwIiBzdHlsZT0ibWl4LWJsZW5kLW1vZGU6IG5vcm1hbCI+PHBhdGggZD0iTTYwLjM5NDI4LDM2MHYtMzYwaDM1OS4yMTE0M3YzNjB6IiBmaWxsPSIjMDAwMDAwIi8+PHBhdGggZD0iTTE5NCwxNzkuMDU4MDFjMCwwIDAsLTMyLjAxNDI4IDAsLTM3LjYzOTk0YzAsLTQuMzM3MDQgMy4wNDM0NywtNy40NDM3MiA3LjMzMTI2LC03LjQ0MzcyYzUuNTAwODcsMCAzNy42NjEyNywwIDM3LjY2MTI3LDBsMC4wMDkzLDQ1LjAxNDYxeiIgZmlsbD0idXJsKCNjb2xvci0xKSIvPjxwYXRoIGQ9Ik0xOTQsMjE3LjM0MzcyYzAsLTguNjA5OTkgMCwtMzYuMzIxNTEgMCwtMzYuMzIxNTFsNDQuOTYxOSwwLjA0MjA4bDAuMDE5MjMsNDQuOTM1N2MwLDAgLTI4LjMyNDUyLDAgLTM3LjA3NDg2LDBjLTUuNTY3NzgsMCAtNy45MDYyNiwtMy4zMjE0NyAtNy45MDYyNiwtOC42NTYyOHoiIGZpbGw9InVybCgjY29sb3ItMikiLz48cGF0aCBkPSJNMjg2LDE4MS4wMTQ0NGMwLDAgMCwyOC4yMjg5OCAwLDM2LjkwNDI4YzAsNS4zMzE5NCAtMy4yMDU0NCw4LjA4MTI4IC03LjYxODc0LDguMDgxMjhjLTUuNjAwODQsMCAtMzcuMzYzNTUsMCAtMzcuMzYzNTUsMGwtMC4wMTY0MSwtNDQuOTczNjJ6IiBmaWxsPSJ1cmwoI2NvbG9yLTMpIi8+PHBhdGggZD0iTTI0MS4wMTQxLDEzNGMwLDAgMjcuOTEwOTUsMCAzNi43OTIxNiwwYzYuMDY4NTQsMCA4LjE5Mzc0LDMuMTg2MTIgOC4xOTM3NCw4LjAxODcyYzAsNS43MzE3OSAwLDM2LjkyODMzIDAsMzYuOTI4MzNsLTQ0Ljk1NzMxLDAuMDM2Mzh6IiBmaWxsPSJ1cmwoI2NvbG9yLTQpIi8+PC9nPjwvZz48L3N2Zz4="
+        }
+    },
+    "controls": {
+        "greenFlag": {
+            "enabled": false
+        },
+        "stopAll": {
+            "enabled": false
+        },
+        "fullscreen": {
+            "enabled": false
+        },
+        "pause": {
+            "enabled": false
+        }
+    },
+    "monitors": {
+        "editableLists": false,
+        "variableColor": "#ff8c1a",
+        "listColor": "#fc662c"
+    },
+    "compiler": {
+        "enabled": true,
+        "warpTimer": false
+    },
+    "packagedRuntime": true,
+    "target": "html",
+    "app": {
+        "icon": {
+            "__isBlob": true,
+            "type": "image/svg+xml",
+            "name": "Icon.svg",
+            "data": "PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSIxMTUuODgyNzEiIGhlaWdodD0iMTE1Ljg4MjcyIiB2aWV3Qm94PSIwLDAsMTE1Ljg4MjcxLDExNS44ODI3MiI+PGRlZnM+PGxpbmVhckdyYWRpZW50IHgxPSIxOTQiIHkxPSIxNzkuOTc0MyIgeDI9IjI4NiIgeTI9IjE3OS45NzQzIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgaWQ9ImNvbG9yLTEiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzY2ZDZmZiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzAwODhmZiIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IHgxPSIxOTQiIHkxPSIxNzkuOTk5OTQiIHgyPSIyODYiIHkyPSIxNzkuOTk5OTQiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBpZD0iY29sb3ItMiI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjNjZkNmZmIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDA4OGZmIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgeDE9IjE5NCIgeTE9IjE3OS45OTk5NCIgeDI9IjI4NiIgeTI9IjE3OS45OTk5NCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIGlkPSJjb2xvci0zIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM2NmQ2ZmYiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwMDg4ZmYiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCB4MT0iMTk0IiB5MT0iMTc5Ljk5OTk0IiB4Mj0iMjg2IiB5Mj0iMTc5Ljk5OTk0IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgaWQ9ImNvbG9yLTQiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzY2ZDZmZiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzAwODhmZiIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xODIuMDU4NjQsLTEyMi4wNTg2NCkiPjxnIGRhdGEtcGFwZXItZGF0YT0ieyZxdW90O2lzUGFpbnRpbmdMYXllciZxdW90Ozp0cnVlfSIgZmlsbC1ydWxlPSJub256ZXJvIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMCIgc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLWRhc2hhcnJheT0iIiBzdHJva2UtZGFzaG9mZnNldD0iMCIgc3R5bGU9Im1peC1ibGVuZC1tb2RlOiBub3JtYWwiPjxwYXRoIGQ9Ik0xODIuMDU4NjQsMjI3LjAzNzk1YzAsLTI0LjEwNTUxIDAsLTgyLjI5NDM4IDAsLTk1LjYwMzI0YzAsLTUuNDYyOTEgMy44MzM1NCwtOS4zNzYwNyA5LjIzNDQyLC05LjM3NjA3YzEyLjk3NTI1LDAgNzEuMzYzNTcsMCA5Ni4zMjc1LDBjNy42NDM5LDAgMTAuMzIwNzksNC4wMTMyMiAxMC4zMjA3OSwxMC4xMDAzNGMwLDEzLjc4MTc5IDAsNzEuODk1OTUgMCw5NS42MDMyNGMwLDYuNzE2MDggLTQuMDM3NTYsMTAuMTc5MTQgLTkuNTk2NTIsMTAuMTc5MTRjLTEzLjI5MzMyLDAgLTcyLjAwNzIsMCAtOTYuMzI3NSwwYy03LjAxMzE1LDAgLTkuOTU4NjgsLTQuMTgzNzEgLTkuOTU4NjgsLTEwLjkwMzR6IiBmaWxsPSIjZmZmZmZmIi8+PHBhdGggZD0iTTE5NCwxNzkuMDU4MDFjMCwwIDAsLTMyLjAxNDI4IDAsLTM3LjYzOTk0YzAsLTQuMzM3MDQgMy4wNDM0NywtNy40NDM3MiA3LjMzMTI2LC03LjQ0MzcyYzUuNTAwODcsMCAzNy42NjEyNywwIDM3LjY2MTI3LDBsMC4wMDkzLDQ1LjAxNDYxeiIgZmlsbD0idXJsKCNjb2xvci0xKSIvPjxwYXRoIGQ9Ik0xOTQsMjE3LjM0MzcyYzAsLTguNjA5OTkgMCwtMzYuMzIxNTEgMCwtMzYuMzIxNTFsNDQuOTYxOSwwLjA0MjA4bDAuMDE5MjMsNDQuOTM1N2MwLDAgLTI4LjMyNDUyLDAgLTM3LjA3NDg2LDBjLTUuNTY3NzgsMCAtNy45MDYyNiwtMy4zMjE0NyAtNy45MDYyNiwtOC42NTYyOHoiIGZpbGw9InVybCgjY29sb3ItMikiLz48cGF0aCBkPSJNMjg2LDE4MS4wMTQ0NGMwLDAgMCwyOC4yMjg5OCAwLDM2LjkwNDI4YzAsNS4zMzE5NCAtMy4yMDU0NCw4LjA4MTI4IC03LjYxODc0LDguMDgxMjhjLTUuNjAwODQsMCAtMzcuMzYzNTUsMCAtMzcuMzYzNTUsMGwtMC4wMTY0MSwtNDQuOTczNjJ6IiBmaWxsPSJ1cmwoI2NvbG9yLTMpIi8+PHBhdGggZD0iTTI0MS4wMTQxLDEzNGMwLDAgMjcuOTEwOTUsMCAzNi43OTIxNiwwYzYuMDY4NTQsMCA4LjE5Mzc0LDMuMTg2MTIgOC4xOTM3NCw4LjAxODcyYzAsNS43MzE3OSAwLDM2LjkyODMzIDAsMzYuOTI4MzNsLTQ0Ljk1NzMxLDAuMDM2Mzh6IiBmaWxsPSJ1cmwoI2NvbG9yLTQpIi8+PC9nPjwvZz48L3N2Zz4="
+        },
+        "packageName": "windows--v",
+        "windowTitle": "Windows 11 v2.1.0",
+        "windowMode": "window",
+        "version": "1.0.0",
+        "escapeBehavior": "unfullscreen-only",
+        "windowControls": "default",
+        "backgroundThrottling": false
+    },
+    "chunks": {
+        "gamepad": false,
+        "pointerlock": false
+    },
+    "cloudVariables": {
+        "mode": "ws",
+        "cloudHost": "wss://clouddata.turbowarp.org",
+        "custom": {},
+        "specialCloudBehaviors": false,
+        "unsafeCloudBehaviors": false
+    },
+    "cursor": {
+        "type": "auto",
+        "custom": null,
+        "center": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "steamworks": {
+        "appId": "480",
+        "onError": "warning"
+    },
+    "extensions": [],
+    "bakeExtensions": true,
+    "maxTextureDimension": 2048
+}

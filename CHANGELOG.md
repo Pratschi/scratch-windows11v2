@@ -51,3 +51,6 @@ The HTML Build (made with TurboWarp Packager), now includes a Page Icon and a Lo
   * The main script with the logo was moved to a clone.
   * The logo is able to properly disappear if the project is stopped too quickly.
   * Added the `windows11.clone?` variable to let know if the current script is a clone (for broadcasts).
+
+## Windows 11 v2.1.1 (Future Release)
+The objective of this future release will be on adding a background to the Scratch project and for when the project is stopped, just like with our previous project [Scratch Windows 11 Online Simulator](https://scratch.mit.edu/projects/1027133381/).
